@@ -2,9 +2,6 @@
     background-color: #5b493c;
     color: white;
 }
-html, body, .container-fluid {
-    height: 100%;
-}
 
 #banner{
     align-items: center;
@@ -21,18 +18,27 @@ html, body, .container-fluid {
 
 .content{
     align-items: center;
+    justify-content: center;
     padding: 5rem;
 
 }
 
 #gray-background{
     background-color: #f2f2f2;
+    justify-content: center;
 }
 
 .pink-photo{
     background-color: #b86873;
+    justify-content: center;
 }
 
 .blue-photo{
     background-color: #00a2b6;
+    justify-content: center;
+}
+
+img {
+    max-width: 20vh;
+    max-height: 20vh;
 }
