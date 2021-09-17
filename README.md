@@ -1,1 +1,2 @@
-# EjercicioBootstrap_JuanAriza
+# Ejercicio Bootstrap
+Juan Andrés Ariza Gacharná - 201911442
